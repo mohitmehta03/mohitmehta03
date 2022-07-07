@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Mehta..... Mohit Mehta
-- 👀 I’m interested in ... nothing
-- 🌱 I’m currently learning ... how to chill
-- 📫 How to reach me ... i am unreachable
+- 👋 Hi, This is Mohit Mehta...
+- 🌱 i love to code ... 
+- 📫 
 
 <!---
 mohitmehta03/mohitmehta03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
